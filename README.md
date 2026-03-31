@@ -43,3 +43,14 @@ The current implementation is developed in C++14 using the Qt 5.9.1 framework.
 This software depends on Qt 5.9.1.
 Users should comply with the license terms of Qt and any other third-party libraries used in this project.
 
+
+## Citation
+
+If you use this code in academic work, please cite the corresponding paper.
+
+
+## Contact
+
+For questions regarding the code and paper, please contact:
+Zhibin Liu  Email: liuzhibin0620@qq.com
+Jiateng Guo*  Email: guojiateng@mail.neu.edu.cn

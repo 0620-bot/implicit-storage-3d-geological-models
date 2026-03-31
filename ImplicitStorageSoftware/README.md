@@ -3,7 +3,7 @@
 This folder provides the **precompiled software package** corresponding to the source code in this repository. It is intended for reproducing the workflow presented in the paper, including **implicit storage**, **multiscale model reconstruction**, and **implicit cross-section generation**.
 
 Users can run the software directly by launching `ImplicitStorage.exe`.  
-For a full interface-level demonstration, please refer to the demo video provided in the repository release.
+For a full interface-level demonstration, please refer to the demo video provided in the GitHub Release of this repository.
 
 
 ## Runtime Notes
@@ -43,3 +43,10 @@ For a full interface-level demonstration, please refer to the demo video provide
 - This software package is mainly intended to demonstrate and reproduce the core workflow described in the paper.
 - For source code, compilation instructions, and implementation details, please refer to the main repository contents and documentation.
 - For more detailed operation steps, please refer to the demo video provided with the release.
+
+
+## Current Limitations
+
+- This software package is primarily provided for demonstration and research reproducibility purposes.
+- The current implementation is based on the implicit modelling and storage workflow used in the paper.
+- Some intermediate files are generated for internal processing and may not be directly relevant to end users.

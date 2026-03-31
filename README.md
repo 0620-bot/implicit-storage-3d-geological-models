@@ -14,6 +14,7 @@ This repository contains the source code, documentation, and example materials f
 ## Overview
 
 This software implements an implicit storage and cross-sectioning workflow for 3D geological models.
+
 Instead of storing only explicit mesh results, the method stores the implicit functions and modelling metadata of geological interfaces, enabling:
 
 - multiscale model reconstruction at different meshing resolutions;
@@ -25,8 +26,8 @@ The current implementation is developed in C++14 using the Qt 5.9.1 framework.
 
 ## Repository contents
 
-- `Code/` – C++ source code. include UI files, qrc file, .h files, .cpp files
-- `ImplicitStorageSoftware/` – Software Packages and Examples
+- `Code/` - C++ source code. include UI files, qrc file, .h files, .cpp files
+- `ImplicitStorageSoftware/` - software packages and examples
 
 
 
@@ -41,6 +42,7 @@ The current implementation is developed in C++14 using the Qt 5.9.1 framework.
 ## Third-party dependencies
 
 This software depends on Qt 5.9.1.
+
 Users should comply with the license terms of Qt and any other third-party libraries used in this project.
 
 
@@ -52,5 +54,7 @@ If you use this code in academic work, please cite the corresponding paper.
 ## Contact
 
 For questions regarding the code and paper, please contact:
+
 Zhibin Liu  Email: liuzhibin0620@qq.com
+
 Jiateng Guo*  Email: guojiateng@mail.neu.edu.cn

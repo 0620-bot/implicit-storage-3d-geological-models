@@ -3,12 +3,18 @@ implicit-storage-3d-geological-models
 Source code and example materials for the paper "An Implicit Storage Method for 3D Geological Models Supporting Multiscale Modelling and Cross-Sectional Analysis"
 
 
+# Runnable software and demo video
+
+Runnable software packages and the demonstration video are available in the GitHub Releases section:
+
+**Release v1.0.0:**  
+https://github.com/0620-bot/implicit-storage-3d-geological-models/releases/tag/v1.0.0
+
 
 # Implicit Storage Method for 3D Geological Models
 
 This repository contains the source code, documentation, and example materials for the paper:
 "An Implicit Storage Method for 3D Geological Models Supporting Multiscale Modelling and Cross-Sectional Analysis"
-
 
 
 ## Overview

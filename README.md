@@ -33,6 +33,7 @@ The current implementation is developed in C++14 using the Qt 5.9.1 framework.
 ## Repository contents
 
 - `Code/` - C++ source code. include UI files, qrc file, .h files, .cpp files
+- `Data/` - Test case data, including stratigraphic and geological structural implicit results.
 - The runnable software package and demonstration video had been provided in the GitHub Releases section
 
 

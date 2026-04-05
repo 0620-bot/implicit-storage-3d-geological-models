@@ -56,6 +56,4 @@ If you use this code in academic work, please cite the corresponding paper.
 
 For questions regarding the code and paper, please contact:
 
-Zhibin Liu  Email: liuzhibin0620@qq.com
-
 Jiateng Guo*  Email: guojiateng@mail.neu.edu.cn

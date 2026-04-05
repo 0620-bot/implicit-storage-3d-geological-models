@@ -15,7 +15,7 @@ For a full interface-level demonstration, please refer to the demo video provide
 
 ## Folder Contents
 
-- `ImplicitModel/` – Example model data.  Including stratigraphic interfaces and structural implicit surfaces.
+- `ImplicitModel/` – Test case data.  Including stratigraphic interfaces and structural implicit surfaces.
 - `ImplicitSection/` – Default output folder for generated implicit cross-section results.
 - `ImplicitSurfdata/` – Intermediate data generated during implicit surface processing. These files are not required as final output results.
 - `multiscaleModel/` – Default output folder for reconstructed multiscale model results.

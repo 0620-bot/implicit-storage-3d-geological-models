@@ -1,2 +1,2 @@
-Example model data.  Including stratigraphic interfaces and structural implicit surfaces.
+Test case data.  Including stratigraphic interfaces and structural implicit surfaces.
 

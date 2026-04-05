@@ -39,13 +39,6 @@ The current implementation is developed in C++14 using the Qt 5.9.1 framework.
 - Generate geological cross-sections based on implicit surfaces
 
 
-## Runnable software and demo video
-
-Runnable software packages and the demonstration video are available in the GitHub Releases section:
-
-**Release v1.0.0:**  
-https://github.com/0620-bot/implicit-storage-3d-geological-models/releases/tag/v1.0.0
-
 
 ## Third-party dependencies
 
